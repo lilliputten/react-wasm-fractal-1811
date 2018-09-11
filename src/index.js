@@ -1,10 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import Canvas from './canvas';
+
 const title = 'My Minimal React Webpack Babel Setup';
 
 ReactDOM.render(
-  <div>{title}</div>,
+  <Canvas height={500} width={500} />,
   document.getElementById('app')
 );
 
