@@ -1,8 +1,8 @@
 {
   "name": "minimal-react-webpack-babel-setup",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Use WASM with react - fractal drawing example from @janczer",
+  "main": "src/index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
