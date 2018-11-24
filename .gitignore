@@ -1,1 +1,14 @@
-node_modules/
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Unused & temp files
+\!UNUSED
+~*
+*_
+zia*
+*.log
+*.sw?
+*~
+\!ARC*
+
+# dependencies
+/node_modules
