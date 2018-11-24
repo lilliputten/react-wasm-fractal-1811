@@ -10,9 +10,9 @@ Use WASM with react - fractal drawing example from @janczer.
 
 ## See also:
 
-- [Original readme](README.orig.md)
-- Original artice: [Using WebAssembly with React](https://dev.to/brightdevs/using-webassembly-with-react-1led).
-- [Original repo](https://github.com/janczer/minimal-react-webpack-babel-setup)
+- [Original readme](README.orig.md).
+- Original artice: [Using WebAssembly with React @dev.to](https://dev.to/brightdevs/using-webassembly-with-react-1led).
+- [Original repo](https://github.com/janczer/minimal-react-webpack-babel-setup).
 
 ## Other links:
 
